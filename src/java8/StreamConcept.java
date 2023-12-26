@@ -1,4 +1,4 @@
-package stream;
+package java8;
 
 import java.time.LocalDateTime;
 import java.util.function.Consumer;

@@ -9,7 +9,7 @@ public class OptionalTest {
         //mainly to be used by the return type
 
         String input = "test"; // or null
-        //input = null;
+        input = null;
 
         Optional<String> aMessage = Optional.ofNullable(input);
         //old way
